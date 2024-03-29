@@ -1,0 +1,92 @@
+Vue.js (version 2)
+Firebase (backend)
+Vuetify (HTML/CSS framework)
+
+
+login Credentials
+  email - admin@vueverse.com
+  password - admin@12345
+
+
+
+Installation Process
+Ensure Node.js Version 18.2.0:
+
+Check if Node.js version 18.2.0 is installed on your system.
+Install Vue CLI Globally:
+2. Run npm install -g @vue/cli to install the Vue CLI globally.
+
+Navigate to Project Directory:
+3. Go to the directory where your VueVerse Blogs project is located.
+
+Install Project Dependencies:
+4. Run npm install --force to install project dependencies, ensuring force installation.
+
+Run Development Server:
+5. Execute npm run serve to start the development server.
+
+Instructions for the Login Page:
+Enter Credentials:
+
+Input your email and password in the respective fields.
+New User? Sign Up:
+2. If you're a new user, click "Sign up now!" to register.
+
+Login Button:
+3. Click the "Login" button to proceed.
+
+Snackbar Notifications:
+4. Alerts appear for important messages.
+
+Background & Logo:
+5. Visual elements enhance the login experience.
+
+Instructions for Signup Page:
+Enter Credentials:
+
+Create a password and confirm it.
+Passwords must match and meet any specified criteria.
+Passwords are hidden for security. Click the eye icon to reveal.
+Already have an account? Login:
+2. If you're already registered, click "Login here!" to access your account.
+
+Signup Button:
+3. Click the "Sign up" button to register.
+
+Visual elements enhance the signup experience.
+
+
+
+
+Dashboard Page:
+Counts:
+
+Total Blogs
+Published Blogs
+Total Users
+New User Registrations
+Graph indicating these counts
+
+
+
+
+Blogs Page:
+User Actions:
+
+Add (User)
+Edit (User)
+Delete (User)
+Admin Actions:View all details
+
+
+
+Profile Page:
+Profile Content:
+Display user profile information.
+
+
+
+About Us Page:
+About Us Content:
+Information about the VueVerse platform and its team.
+
