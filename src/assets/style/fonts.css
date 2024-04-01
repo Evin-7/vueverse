@@ -1,0 +1,78 @@
+
+@font-face {
+    font-family: DMSansB;
+    src: url("./../fonts/DMSans-Bold.ttf");
+}
+
+
+@font-face {
+    font-family: LexendRegular;
+    src: url("./../fonts/Lexend-Regular.ttf");
+}
+@font-face {
+    font-family: intersemib ;
+    src: url("./../fonts/Inter-SemiBold.ttf");
+}
+@font-face {
+    font-family: InterExtraBold;
+    src: url("./../fonts/Inter-ExtraBold.ttf");
+}
+@font-face {
+    font-family: DMSsansregular;
+    src: url("./../fonts/DMSans-Regular.ttf");
+}
+@font-face {
+    font-family: InterBold;
+    src: url("./../fonts/Inter-Bold.ttf");
+}
+@font-face {
+    font-family: DMSsansmedium;
+    src: url("./../fonts/DMSans-Medium.ttf");
+}
+@font-face {
+    font-family: Intermedium;
+    src: url("./../fonts/Inter-Medium.ttf");
+}
+
+@font-face {
+    font-family: homefont;
+    src: url("./../fonts/Inter-SemiBold.ttf");
+}
+@font-face {
+    font-family: buttonfont;
+    src: url("./../fonts/Inter-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: buttonfont2;
+    src: url("./../fonts/Inter-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: buttonfont3;
+    src: url("./../fonts/Inter-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: homefontsub;
+    src: url("./../fonts/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+
+@font-face {
+    font-family: mainfont;
+    src: url("./../fonts/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+
+@font-face {
+    font-family: mainfont6;
+    src: url("./../fonts/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+
+@font-face {
+    font-family: mainfontbold;
+    src: url("./../fonts/OpenSans-VariableFont_wdth\,wght.ttf");
+}
+@font-face {
+    font-family: homefontsub2;
+    src: url("./../fonts/Poppins-SemiBold.ttf");
+}
